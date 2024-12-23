@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Text Extractor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="upload-container">
+        <h1>PDF Text Extractor</h1>
+        <form id="upload-form">
+            <input type="file" id="pdf-file" accept=".pdf" required>
+            <button type="submit">Upload & Process</button>
+        </form>
+        <div id="loading" style="display: none;">Processing...</div>
+    </div>
+    <script src="{{ url_for('static', filename='js/upload.js') }}"></script>
+</body>
+</html> 
