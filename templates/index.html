@@ -3,15 +3,31 @@
 <head>
     <title>PDF Text Extractor</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
     <div class="upload-container">
         <h1>PDF Text Extractor</h1>
-        <form id="upload-form">
-            <input type="file" id="pdf-file" accept=".pdf" required>
-            <button type="submit">Upload & Process</button>
+        <form id="upload-form" class="upload-form">
+            <div class="file-input-container">
+                <input type="file" id="pdf-file" accept=".pdf" required>
+                <div class="file-input-content">
+                    <i class="fas fa-file-pdf upload-icon"></i>
+                    <div class="file-input-label">
+                        Drag & drop your PDF here
+                        <span>or click to browse</span>
+                    </div>
+                </div>
+            </div>
+            <div class="selected-file" id="selected-file"></div>
+            <button type="submit" class="upload-button" id="upload-button">
+                Process PDF
+            </button>
         </form>
-        <div id="loading" style="display: none;">Processing...</div>
+        <div id="loading">
+            <div class="loading-spinner"></div>
+            Processing your PDF...
+        </div>
     </div>
     <script src="{{ url_for('static', filename='js/upload.js') }}"></script>
 </body>
