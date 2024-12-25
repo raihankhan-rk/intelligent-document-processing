@@ -1,0 +1,2202 @@
+[
+  {
+    "page": 1,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 1,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 1,
+    "text": "Issued: 06/08/2019  Ref: WFS/ Watson Fuels/ Gas Oil/ 01 ",
+    "position": {
+      "x1": 414.9100036621094,
+      "y1": 122.99002075195312,
+      "x2": 569.3509521484375,
+      "y2": 145.1900177001953
+    }
+  },
+  {
+    "page": 1,
+    "text": "Version: 01   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 147.35000610351562,
+      "x2": 569.3509521484375,
+      "y2": 169.5500030517578
+    }
+  },
+  {
+    "page": 1,
+    "text": "SECTION 1.   IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING    1.1   PRODUCT IDENTIFIER ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 170.08279418945312,
+      "x2": 477.1909484863281,
+      "y2": 209.7176971435547
+    }
+  },
+  {
+    "page": 1,
+    "text": "Chemical Identification:  Gas Oil  Other names:   Ultra Low Sulphur Gasoil, ULSG     1.2   RELEVANT IDENTIFIED USES OF THE SUBSTANCE OR MIXTURE AND USES ADVISED AGAINST ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 217.43002319335938,
+      "x2": 436.6009521484375,
+      "y2": 264.5877380371094
+    }
+  },
+  {
+    "page": 1,
+    "text": "Relevant Identified Uses:    Fuel for use in off road diesel engine vehicles and stationary diesel engines designed  to run on automotive diesel.    Uses advised against:   This product is not to be used as a solvent or cleaning agent, for lighting or  brightening fires, or as a skin cleanser.     1.3   DETAILS OF THE SUPPLIER OF THE SAFETY DATA SHEET ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 272.3000183105469,
+      "x2": 569.1544799804688,
+      "y2": 356.0277099609375
+    }
+  },
+  {
+    "page": 1,
+    "text": "Supplier:   Watson Fuels  Address:    Lindum House    Causeway End     Brinkworth    Chippenham    Wiltshire    SN15 5DN    UK  Tel:  +44 1666 510 345  Email:  hse@watsonfuels.co.uk    1.4   EMERGENCY TELEPHONE NUMBER ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 363.739990234375,
+      "x2": 319.220947265625,
+      "y2": 508.5677185058594
+    }
+  },
+  {
+    "page": 1,
+    "text": "Emergency Telephone (24hr):   +44 (0) 333 333 9957 (24/7)     SECTION 2.   HAZARDS IDENTIFICATION    2.1   CLASSIFICATION OF THE SUBSTANCE OR MIXTURE ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 516.280029296875,
+      "x2": 339.04095458984375,
+      "y2": 578.5277099609375
+    }
+  },
+  {
+    "page": 1,
+    "text": "ACCORDING TO REGULATION (EC) No. 1272/2008 (CLP) ",
+    "position": {
+      "x1": 56.7599983215332,
+      "y1": 580.2400512695312,
+      "x2": 282.3809509277344,
+      "y2": 590.2000122070312
+    }
+  },
+  {
+    "page": 1,
+    "text": "Classification   Flam. Liq. 3; H226    Asp. Tox. 1; H304    Skin Irrit. 2; H315    Acute Tox. 4 (inhalation); H332    Carc. 1B; H350    STOT RE 2; H373    Aquatic Acute 1; H400    Aquatic Chronic 1; H410    Please see section 16 for full hazard statements ",
+    "position": {
+      "x1": 56.7599983215332,
+      "y1": 592.4800415039062,
+      "x2": 348.40093994140625,
+      "y2": 712.2659912109375
+    }
+  },
+  {
+    "page": 2,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 2,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 2,
+    "text": "  2.2   LABEL ELEMENTS  ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 122.99002075195312,
+      "x2": 132.47096252441406,
+      "y2": 145.7577362060547
+    }
+  },
+  {
+    "page": 2,
+    "text": "ACCORDING TO REGULATION (EC) No. 1272/2008 (CLP)   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 147.35000610351562,
+      "x2": 282.3809509277344,
+      "y2": 169.5500030517578
+    }
+  },
+  {
+    "page": 2,
+    "text": "Hazard pictogram(s):      ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 218.02999877929688,
+      "x2": 441.8809509277344,
+      "y2": 240.22999572753906
+    }
+  },
+  {
+    "page": 2,
+    "text": "Signal Word:   Danger     Hazard statement(s):  H226: Flammable liquid and vapour.    H304: May be fatal if swallowed and enters airways.    H315: Causes skin irritation.    H332: Harmful if inhaled.    H350: May cause cancer    H373: May cause damage to organs (Bone Marrow, Hematopoietic System, Immune  System, Kidney, Liver, Lungs, Skin, Blood)    H410: Very toxic to aquatic life with long lasting effects.    Precautionary statement(s):  P102: Keep out of reach of children.    P210: Keep away from heat, hot surfaces, sparks, open flames and other ignition  sources. No smoking.    P273 Avoid release to the environment    P280: Wear protective gloves/protective clothing/eye protection/face protection.    P301 + P310: IF SWALLOWED: Immediately call a POISON CENTER or  doctor/physician.    P331: Do NOT induce vomiting.    P405: Store locked up.    P501: Dispose of contents/container in accordance with local / national regulations.    Supplementary   None   Hazard Information (EU):    Hazard Determining   Fuels, diesel; Distillates, petroleum, light catalytic cracked; Distillates, petroleum,   Component(s):  hydrodesulfurized middle and Petroleum gas oil fraction, co-processed (catalytic  cracking) with renewable hydrocarbons of plant and/or animal origin     2.3   OTHER HAZARDS: ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 241.57998657226562,
+      "x2": 569.3167114257812,
+      "y2": 608.2877197265625
+    }
+  },
+  {
+    "page": 2,
+    "text": "The product does not meet the criteria for PBT or vPvB substances.    Electrostatic charge may be generated during pumping and other operations.  Vapours may form explosive mixtures with air.  Spillages make surfaces slippery.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 615.9100341796875,
+      "x2": 394.720947265625,
+      "y2": 677.02001953125
+    }
+  },
+  {
+    "page": 3,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 3,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 3,
+    "text": "SECTION 3.   COMPOSITION/INFORMATION ON INGREDIENTS    3.2   MIXTURES   ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 121.2428207397461,
+      "x2": 318.6209411621094,
+      "y2": 172.5500030517578
+    }
+  },
+  {
+    "page": 3,
+    "text": "Mixture manufactured from fuels, diesel and petroleum distillates.  May contain FAME (fatty acid methyl esters) at < 7%  and other additives, including dyes or markers at <0.1% each. None of the additives impact any additional hazard to the  finished product.  Total sulfur: <0.1 wt%. ",
+    "position": {
+      "x1": 70.94400024414062,
+      "y1": 180.82998657226562,
+      "x2": 569.1675415039062,
+      "y2": 215.1499786376953
+    }
+  },
+  {
+    "page": 3,
+    "text": "Chemical Name   CAS No.,  EINECS No.,  Index No.  ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 242.14999389648438,
+      "x2": 264.48858642578125,
+      "y2": 276.5
+    }
+  },
+  {
+    "page": 3,
+    "text": "REACH  Registration  Number  ",
+    "position": {
+      "x1": 281.45001220703125,
+      "y1": 242.14999389648438,
+      "x2": 334.0587158203125,
+      "y2": 276.5
+    }
+  },
+  {
+    "page": 3,
+    "text": "Concentration  Classification ",
+    "position": {
+      "x1": 347.95001220703125,
+      "y1": 242.14999389648438,
+      "x2": 474.79095458984375,
+      "y2": 252.11000061035156
+    }
+  },
+  {
+    "page": 3,
+    "text": "Distillates, petroleum, light  catalytic cracked ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 279.260009765625,
+      "x2": 190.57443237304688,
+      "y2": 301.4599914550781
+    }
+  },
+  {
+    "page": 3,
+    "text": "64741-59-9,  265-060-4  649-435-00-3 ",
+    "position": {
+      "x1": 213.88999938964844,
+      "y1": 279.260009765625,
+      "x2": 270.98095703125,
+      "y2": 313.6999816894531
+    }
+  },
+  {
+    "page": 3,
+    "text": "01- 2119489734- 23-xxxx ",
+    "position": {
+      "x1": 281.45001220703125,
+      "y1": 279.260009765625,
+      "x2": 335.1577453613281,
+      "y2": 313.6999816894531
+    }
+  },
+  {
+    "page": 3,
+    "text": "0 – 100  Flam. Liq. 3; H226  Asp. Tox. 1; H304  Skin Irrit. 2; H315  Acute Tox. 4 (inhalation): H332  Carc. 1B: H350  STOT RE 2: H373  (Blood, thymus, liver)  Aquatic Acute 1: H400  Aquatic Chronic 1: H410  Distillates (petroleum),  hydrodesulfurized middle ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 279.260009765625,
+      "x2": 546.0709838867188,
+      "y2": 411.8599853515625
+    }
+  },
+  {
+    "page": 3,
+    "text": "64742-80-9,  265-183-3  649-223-00-0 ",
+    "position": {
+      "x1": 213.88999938964844,
+      "y1": 389.6600036621094,
+      "x2": 270.98095703125,
+      "y2": 423.97998046875
+    }
+  },
+  {
+    "page": 3,
+    "text": "01- 2119480406- 37-xxxx ",
+    "position": {
+      "x1": 281.45001220703125,
+      "y1": 389.6600036621094,
+      "x2": 335.1577453613281,
+      "y2": 423.97998046875
+    }
+  },
+  {
+    "page": 3,
+    "text": "0 - 100  Flam. Liq. 3; H226  Asp. Tox. 1; H304  Skin Irrit. 2; H315  Acute Tox. 4 (inhalation): H332  Carc. 1B: H350 (Note N)  STOT RE 2: H373  (Bone Marrow, Hematopoietic  System, Immune System, Kidney,  Liver, Lungs, Skin, Blood)  Aquatic Chronic 1: H410  Fuels, diesel  68334-30-5,  269-822-7,  649-224-00-6 ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 389.6600036621094,
+      "x2": 554.5416870117188,
+      "y2": 546.6400146484375
+    }
+  },
+  {
+    "page": 3,
+    "text": "01- 2119484664- 27-xxxx ",
+    "position": {
+      "x1": 281.45001220703125,
+      "y1": 512.2000732421875,
+      "x2": 335.1577453613281,
+      "y2": 546.6400146484375
+    }
+  },
+  {
+    "page": 3,
+    "text": "0 - 100  Flam. Liq. 3; H226  Asp. Tox. 1; H304  Skin Irrit. 2; H315  Acute Tox. 4 (inhalation): H332  Carc. 2: H351 (Note N)  STOT RE 2: H373  (Blood, thymus, liver)  Aquatic Chronic 2: H411  Petroleum gas oil fraction, co- processed (catalytic cracking)  with renewable hydrocarbons  of plant and/or animal origin ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 512.2000732421875,
+      "x2": 546.0709838867188,
+      "y2": 656.9500122070312
+    }
+  },
+  {
+    "page": 3,
+    "text": "-  [ 945-893-6]  - ",
+    "position": {
+      "x1": 213.88999938964844,
+      "y1": 610.3900146484375,
+      "x2": 264.02093505859375,
+      "y2": 644.8299560546875
+    }
+  },
+  {
+    "page": 3,
+    "text": "01- 2120737197- 49 ",
+    "position": {
+      "x1": 281.45001220703125,
+      "y1": 610.3900146484375,
+      "x2": 335.1577453613281,
+      "y2": 644.8299560546875
+    }
+  },
+  {
+    "page": 3,
+    "text": "0 - 10  Flam. Liq. 3; H226  Asp. Tox. 1; H304  Skin Irrit. 2; H315  Acute Tox. 4 (inhalation): H332  Carc. 1B: H350  STOT RE 2: H373  Aquatic Chronic 2: H411 ",
+    "position": {
+      "x1": 347.95001220703125,
+      "y1": 610.3900146484375,
+      "x2": 546.0709838867188,
+      "y2": 693.6699829101562
+    }
+  },
+  {
+    "page": 3,
+    "text": "Please see section 16 for full hazard statements. ",
+    "position": {
+      "x1": 70.94400024414062,
+      "y1": 702.426025390625,
+      "x2": 269.0609436035156,
+      "y2": 712.385986328125
+    }
+  },
+  {
+    "page": 4,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 4,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 4,
+    "text": "SECTION 4.   FIRST AID MEASURES ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 139.48281860351562,
+      "x2": 205.22096252441406,
+      "y2": 153.19773864746094
+    }
+  },
+  {
+    "page": 4,
+    "text": "4.1  DESCRIPTION OF FIRST AID MEASURES ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 162.47000122070312,
+      "x2": 226.22096252441406,
+      "y2": 172.4300079345703
+    }
+  },
+  {
+    "page": 4,
+    "text": "General Advice:   Obtain medical attention if symptoms do not resolve. Show this safety data sheet to  the doctor in attendance.   Inhalation:    If breathing is difficult, remove victim to fresh air and keep at rest in a position  comfortable for breathing. If casualty is unconscious and not breathing, or if  breathing is irregular or if respiratory arrest occurs, provide artificial respiration or  oxygen by trained personnel. If the casualty is unconscious and breathing, place in  the recovery position with the head below level of the torso. Immediately obtain  specialist medical assessment and treatment for the casualty.  Ingestion:    Obtain medical attention immediately. Do not wait for symptoms to develop. Do not  induce vomiting. Do not give anything by mouth because of risk of material entering  the lungs and causing lung damage. If person is drowsy or unconscious and vomiting,  place on left side with head down. If possible, do not leave unattended and observe  closely for adequacy of breathing.  Eye contact:   Remove contact lenses if present and easy to do. Wash eyes immediately with plenty  of water, making sure to rinse under eyelids. If symptoms persist, obtain medical  attention.  Skin contact:   Drench contaminated clothing with water before removing to avoid risk of sparks  from static electricity.  Take off contaminated clothing and wash it before reuse.   Wash with plenty of soap and water. If skin irritation occurs: Get medical  advice/attention.  For minor thermal burns, cool the burn. Hold the burned area under cold running  water for at least five minutes, or until the pain subsides. Body hypothermia must be  avoided.  Accidental high-pressure injection through the skin requires immediate medical  attention. Do not wait for symptoms to develop.  Protection of first aiders:   No action shall be taken involving any personal risk or without suitable training.    Ensure adequate ventilation. Spillages make surface slippery.     4.2   MOST IMPORTANT SYMPTOMS AND EFFECTS, BOTH ACUTE AND DELAYED ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 180.58999633789062,
+      "x2": 571.6309814453125,
+      "y2": 532.927734375
+    }
+  },
+  {
+    "page": 4,
+    "text": "Aspiration into the lungs may occur directly or following ingestion. This may cause chemical pneumonitis which may be  fatal. If material enters lungs, signs and symptoms may include coughing, choking, wheezing, difficulty in breathing,  chest congestion, shortness of breath, and/or fever. Ingestion may also cause gastrointestinal irritation, nausea,  diarrhoea and vomiting.  Breathing of high vapour concentrations may cause central nervous system (CNS) depression resulting in drowsiness,  dizziness, light headedness, headache, disorientation, fatigue, nausea and loss of coordination. The onset of respiratory  symptoms may be delayed for several hours after exposure.   Eye contact may cause redness and transient pain.   Skin irritation signs and symptoms may include a burning sensation, redness, swelling, and/or blisters. Prolonged or  repeated skin contact may cause dry skin and irritation and defatting of the skin.  Suspected of causing cancer.  Prolonged or repeated exposure may cause damage to Bone Marrow, Hematopoietic System, Immune System, Kidney,  Liver, Lungs, Skin and Blood.  ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 534.6400146484375,
+      "x2": 569.3082885742188,
+      "y2": 691.4200439453125
+    }
+  },
+  {
+    "page": 5,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 5,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 5,
+    "text": "4.3   INDICATION OF ANY IMMEDIATE MEDICAL ATTENTION AND SPECIAL TREATMENT NEEDED ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 119.80281829833984,
+      "x2": 436.9609375,
+      "y2": 133.5177459716797
+    }
+  },
+  {
+    "page": 5,
+    "text": "In case of accident or if you feel unwell, seek medical advice immediately. If swallowed, patient should be monitored for  signs of breathing difficulty as effects of aspiration may be delayed for up to 48 hours. If breathing is laboured, oxygen  should be administered by qualified personnel.  ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 135.23001098632812,
+      "x2": 569.2708740234375,
+      "y2": 169.8199920654297
+    }
+  },
+  {
+    "page": 5,
+    "text": "  SECTION 5.   FIREFIGHTING MEASURES ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 177.82998657226562,
+      "x2": 223.58096313476562,
+      "y2": 202.03770446777344
+    }
+  },
+  {
+    "page": 5,
+    "text": "5.1   EXTINGUISHING MEDIA  ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 208.00277709960938,
+      "x2": 160.55096435546875,
+      "y2": 221.7176971435547
+    }
+  },
+  {
+    "page": 5,
+    "text": "Suitable:    Foam, water fog, inert gas, sand, earth, CO 2  or dry powder.    ",
+    "position": {
+      "x1": 60.599998474121094,
+      "y1": 226.19302368164062,
+      "x2": 462.67889404296875,
+      "y2": 251.63002014160156
+    }
+  },
+  {
+    "page": 5,
+    "text": "Not suitable:    Do not use a direct water jet. ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 253.81997680664062,
+      "x2": 341.0809326171875,
+      "y2": 263.77996826171875
+    }
+  },
+  {
+    "page": 5,
+    "text": "5.2   SPECIAL HAZARDS ARISING FROM THE SUBSTANCE OR MIXTURE ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 268.8728332519531,
+      "x2": 325.220947265625,
+      "y2": 282.5877380371094
+    }
+  },
+  {
+    "page": 5,
+    "text": "Flammable liquid and vapour:  Vapour may form explosive mixture with air. Vapour is heavier than air and may  accumulate in confined spaces. Vapours may travel considerable distances to ignition sources where they can ignite,  flash back or explode. The product will float on surface water and can reignite. Containers exposed to heat may burst  due to increase in pressure. ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 290.29998779296875,
+      "x2": 568.9382934570312,
+      "y2": 336.8599853515625
+    }
+  },
+  {
+    "page": 5,
+    "text": "Hazardous thermal decomposition products:  ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 362.6600036621094,
+      "x2": 232.10096740722656,
+      "y2": 372.6199951171875
+    }
+  },
+  {
+    "page": 5,
+    "text": "Hazardous combustion products may include: A complex mixture of airborne solid and liquid particulates and gases  (smoke), carbon monoxide, oxides of sulphur, hydrogen sulphide and unidentified organic and inorganic compounds. ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 380.7799987792969,
+      "x2": 568.6859130859375,
+      "y2": 402.97998046875
+    }
+  },
+  {
+    "page": 5,
+    "text": "5.3   ADVICE FOR FIRE-FIGHTERS  ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 429.5199890136719,
+      "x2": 194.39096069335938,
+      "y2": 439.47998046875
+    }
+  },
+  {
+    "page": 5,
+    "text": "A self-contained breathing apparatus and suitable protective clothing should be worn in fire conditions. Move  undamaged containers from fire area if this can be done safely. Keep fire exposed containers cool by spraying with  water. Do not allow to enter drains, sewers or watercourses.   ",
+    "position": {
+      "x1": 60.599998474121094,
+      "y1": 447.6399841308594,
+      "x2": 568.8193969726562,
+      "y2": 494.1999816894531
+    }
+  },
+  {
+    "page": 5,
+    "text": "Firefighting measures:   Isolate the source of the combustible product. If fire cannot be extinguished, allow it  to die out in a controlled manner. Use water to cool down equipment and items  exposed to fire.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 496.4800109863281,
+      "x2": 568.9600830078125,
+      "y2": 543.0399780273438
+    }
+  },
+  {
+    "page": 5,
+    "text": "Additional advice:   Keep adjacent containers cool by spraying with water. If possible, remove containers  from the danger zone. If the fire cannot be extinguished, the only course of action is  to evacuate immediately.    SECTION 6.   ACCIDENTAL RELEASE MEASURES ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 545.3200073242188,
+      "x2": 569.2637939453125,
+      "y2": 606.1277465820312
+    }
+  },
+  {
+    "page": 5,
+    "text": "6.1   PERSONAL PRECAUTIONS, PROTECTIVE EQUIPMENT AND EMERGENCY PROCEDURES  ",
+    "position": {
+      "x1": 60.599998474121094,
+      "y1": 612.2427978515625,
+      "x2": 430.720947265625,
+      "y2": 625.957763671875
+    }
+  },
+  {
+    "page": 5,
+    "text": "6.1.1   For non-emergency personnel:  ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 630.4827880859375,
+      "x2": 244.22096252441406,
+      "y2": 644.19775390625
+    }
+  },
+  {
+    "page": 5,
+    "text": "Alert emergency personnel. Keep unnecessary personnel away.      Flammable. Spillages of liquid product will create a fire hazard and may form an explosive atmosphere. Keep away from  heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. Take precautionary measures against  static discharge. Use only non-sparking tools. Use explosion-proof electrical, ventilating and lighting equipment.   ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 651.7900390625,
+      "x2": 569.2847290039062,
+      "y2": 710.5859985351562
+    }
+  },
+  {
+    "page": 6,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 6,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 6,
+    "text": "  Caution – spillage area may be slippery.    Keep upwind. Ensure adequate ventilation. Avoid inhalation of vapours. Avoid contact with skin and eyes. Wear suitable  personal protective equipment. Wear appropriate respirator when ventilation is inadequate. (See Section 8).  Stop the  leak if safe to do so.    6.1.2   For emergency responders: ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 122.99002075195312,
+      "x2": 569.3223876953125,
+      "y2": 218.95774841308594
+    }
+  },
+  {
+    "page": 6,
+    "text": "Flammable. Spillages of liquid product will create a fire hazard and may form an explosive atmosphere. Keep away from  heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. Take precautionary measures against  static discharge. Use only non-sparking tools. Use explosion-proof electrical, ventilating and lighting equipment.      Keep unnecessary personnel away. Keep upwind.  Ensure adequate ventilation. Avoid inhalation of vapours. Avoid  contact with skin and eyes. Wear suitable personal protective equipment:    Small spillages: normal antistatic working clothes are usually adequate.    Large spillages: full body suit of chemically resistant and thermal resistant material should be used. Work gloves  providing adequate chemical resistance, specifically to aromatic hydrocarbons. Note: gloves made of PVA are not water- resistant and are not suitable for emergency use. Safety helmet, antistatic non-skid safety shoes or boots. Goggles  and/or face shield, if splashes or contact with eyes is possible or anticipated.    Respiratory protection: a half or full-face respirator with filter(s) for organic vapours or, preferably, a Self-Contained  Breathing Apparatus (SCBA) can be used according to the extent of spill and predictable amount of exposure. If the  situation cannot be completely assessed, or if an oxygen deficiency is possible, only SCBA should be used.    6.2   ENVIRONMENTAL PRECAUTIONS ",
+    "position": {
+      "x1": 60.599998474121094,
+      "y1": 226.67001342773438,
+      "x2": 569.303466796875,
+      "y2": 456.96771240234375
+    }
+  },
+  {
+    "page": 6,
+    "text": "Collect spillage.  Stop the leak if it is safe to do so.  Do not allow to enter drains, sewers or watercourses. Spillages or  uncontrolled discharges into watercourses must be alerted to the Environment Agency or other appropriate regulatory  body.  In case of soil contamination, remove contaminated soil and treat in accordance with local regulations.  Inform  the relevant authorities if the product has caused environmental pollution.    6.3   METHODS AND MATERIAL FOR CONTAINMENT AND CLEANING UP ",
+    "position": {
+      "x1": 60.2400016784668,
+      "y1": 464.55999755859375,
+      "x2": 569.1130981445312,
+      "y2": 536.167724609375
+    }
+  },
+  {
+    "page": 6,
+    "text": "6.3.1   For containment: ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 540.6927490234375,
+      "x2": 188.51095581054688,
+      "y2": 554.40771484375
+    }
+  },
+  {
+    "page": 6,
+    "text": "Stop the leak if it is safe to do so. Contain the spillage with sand, earth or any suitable, non-combustible adsorbent  material.    6.3.2   For cleaning up: ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 562.0,
+      "x2": 569.3142700195312,
+      "y2": 609.2777099609375
+    }
+  },
+  {
+    "page": 6,
+    "text": "Use sand, earth or any suitable non-combustible adsorbent material to adsorb spillages. Using non-sparking tools,  transfer the contaminated absorbent material into a container for disposal.   For spillages on water, remove using appropriate methods such as skimming, booms or adsorbents. For spillages onto  soil, remove contaminated soil for remediation or disposal in accordance with local regulations.     Waste containers used should be plastic-lined sealable drums. Containers should be sealed before being disposed of via  an authorised waste disposal contractor.   ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 616.8699951171875,
+      "x2": 569.3509521484375,
+      "y2": 712.2659912109375
+    }
+  },
+  {
+    "page": 7,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 7,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 7,
+    "text": "6.4   REFERENCE TO OTHER SECTIONS ",
+    "position": {
+      "x1": 60.2400016784668,
+      "y1": 119.80281829833984,
+      "x2": 215.1809539794922,
+      "y2": 133.5177459716797
+    }
+  },
+  {
+    "page": 7,
+    "text": "For personal protective equipment, see Section 8.  For disposal, see Section13.    SECTION 7.   HANDLING AND STORAGE   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 141.23001098632812,
+      "x2": 400.0009460449219,
+      "y2": 190.7899932861328
+    }
+  },
+  {
+    "page": 7,
+    "text": "7.1   PRECAUTIONS FOR SAFE HANDLING ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 195.88278198242188,
+      "x2": 211.46096801757812,
+      "y2": 209.5977020263672
+    }
+  },
+  {
+    "page": 7,
+    "text": "Flammable.  Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. Keep  container tightly closed. Ground/bond container and receiving equipment. Use explosion-proof electrical, ventilating  and lighting equipment. Use only non-sparkling tools. Take precautionary measures against static discharge.     Use only outdoors or in a well-ventilated area. Provide adequate ventilation, including local extraction, to ensure  occupational exposure limits are not exceeded. Avoid breathing vapours/spray. Avoid contact with skin and eyes. Wear  suitable personal protective equipment (See Section 8).  Open container slowly.  The vapor is heavier than air and may  create an explosive mixture of vapor and air. Beware of accumulation in confined spaces and low-lying areas.  Do not  enter confined spaces such as tanks or pits without following proper entry procedures.     Do not eat, drink or smoke in the vicinity of the product. Wash thoroughly after handling. Take off contaminated  clothing and wash it before reuse. Contaminated clothing should be thoroughly cleaned or disposed of as hazardous  waste.    7.2   CONDITIONS FOR SAFE STORAGE, INCLUDING ANY INCOMPATIBILITIES  ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 217.18997192382812,
+      "x2": 569.3035888671875,
+      "y2": 398.7477111816406
+    }
+  },
+  {
+    "page": 7,
+    "text": "Keep away from heat and sources of ignition. Keep away from direct sunlight. Store locked up. Store in a well-ventilated  place. Keep container tightly closed. Keep cool. Empty containers retain product residue and can be hazardous. Keep  away from oxidising agents, reducing agents. This product must never be stored in buildings occupied by people. Drums  and small containers should be stored in well-ventilated areas, flameproof cabinets or stores. Keep in a bunded area  with a sealed floor to provide containment against spillage.  Seek specialist advice for the design, construction and  operation of bulk storage facilities.    FAMEs are less stable than conventional petroleum diesel. FAME can degrade under the influence of air, heat, light and  water.  Regular checks of the storage tank for signs of contamination are advised.    7.3   SPECIFIC END USE(S)  ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 406.3399963378906,
+      "x2": 569.3062133789062,
+      "y2": 539.0477294921875
+    }
+  },
+  {
+    "page": 7,
+    "text": "Refer to the end uses as identified section 1.2.   ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 546.6400146484375,
+      "x2": 273.3809509277344,
+      "y2": 556.5999755859375
+    }
+  },
+  {
+    "page": 7,
+    "text": "  SECTION 8.   EXPOSURE CONTROLS/PERSONAL PROTECTION    8.1 CONTROL PARAMETERS   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 564.8800048828125,
+      "x2": 312.8609313964844,
+      "y2": 626.7099609375
+    }
+  },
+  {
+    "page": 7,
+    "text": "Workplace exposure limits   Source: EH40/2005, 3rd Ed., 2018.  None assigned.   ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 628.8699951171875,
+      "x2": 220.10096740722656,
+      "y2": 675.5499877929688
+    }
+  },
+  {
+    "page": 8,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 8,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 8,
+    "text": "Other exposure limits  Source: American Conference of Governmental Industrial Hygienists (ACGIH), Supplier’s recommendations ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 122.99002075195312,
+      "x2": 512.8309326171875,
+      "y2": 145.1900177001953
+    }
+  },
+  {
+    "page": 8,
+    "text": "  Substance ",
+    "position": {
+      "x1": 66.50399780273438,
+      "y1": 166.06997680664062,
+      "x2": 111.23096466064453,
+      "y2": 188.27003479003906
+    }
+  },
+  {
+    "page": 8,
+    "text": "  Type ",
+    "position": {
+      "x1": 149.66000366210938,
+      "y1": 166.06997680664062,
+      "x2": 171.95095825195312,
+      "y2": 188.27003479003906
+    }
+  },
+  {
+    "page": 8,
+    "text": "LTEL (8 hr TWA)  STEL (15 min)  Comments  ppm  mg/m 3   ppm  mg/m 3   Fuels, diesel  ACGIH  -  100  -  -  Sk  Fuels, diesel  Supplier’s recommendations  -  100  -  -  Sk  Naphthalene (*)  ACGIH  -  10  -  -  Sk  Naphthalene (*)  Supplier’s recommendations  -  10  -  -  Sk    (*)  A component of fuels, diesel  Sk  Can be absorbed through the skin   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 166.06997680664062,
+      "x2": 541.7509765625,
+      "y2": 289.2200012207031
+    }
+  },
+  {
+    "page": 8,
+    "text": "Biological Exposure Index (BEI):  No biological limit allocated.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 291.5,
+      "x2": 337.8409423828125,
+      "y2": 313.6999816894531
+    }
+  },
+  {
+    "page": 8,
+    "text": "DNELs (Workers)  Hazard via inhalation route:      Distillates, petroleum,  light catalytic cracked ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 315.8599853515625,
+      "x2": 222.62095642089844,
+      "y2": 363.0199890136719
+    }
+  },
+  {
+    "page": 8,
+    "text": "Distillates (petroleum),  hydrodesulfurized  middle ",
+    "position": {
+      "x1": 240.64999389648438,
+      "y1": 340.82000732421875,
+      "x2": 336.14093017578125,
+      "y2": 375.1399841308594
+    }
+  },
+  {
+    "page": 8,
+    "text": "Fuels, diesel  Petroleum gas oil fraction, co- processed (catalytic cracking)  with renewable hydrocarbons  of plant and/or animal origin  Systemic, Chronic  27.3 mg/m³  16.4 mg/m³  68.3 mg/m 3   No hazard identified  Systemic, Acute  2230 mg/m³  5003 mg/m³  4300 mg/m 3   4300 mg/m³  Local, Chronic  No hazard identified  No hazard identified  No hazard  identified ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 340.82000732421875,
+      "x2": 555.1627197265625,
+      "y2": 437.67999267578125
+    }
+  },
+  {
+    "page": 8,
+    "text": "Low hazard  Local, Acute  No hazard identified    Hazard via dermal route:    Distillates, petroleum,  light catalytic cracked ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 415.5799865722656,
+      "x2": 516.4309692382812,
+      "y2": 488.0799865722656
+    }
+  },
+  {
+    "page": 8,
+    "text": "Distillates (petroleum),  hydrodesulfurized  middle ",
+    "position": {
+      "x1": 240.64999389648438,
+      "y1": 465.8800048828125,
+      "x2": 336.14093017578125,
+      "y2": 500.3199768066406
+    }
+  },
+  {
+    "page": 8,
+    "text": "Fuels, diesel  Petroleum gas oil fraction, co- processed (catalytic cracking)  with renewable hydrocarbons  of plant and/or animal origin  Systemic, Chronic  2.4 mg/kg bw/day  2.9 mg/kg bw/day  2.9 mg/kg bw/day  4.2 mg/kg bw/day  Systemic, Acute  No hazard identified  No hazard identified  No hazard  identified ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 465.8800048828125,
+      "x2": 555.1627197265625,
+      "y2": 550.1199951171875
+    }
+  },
+  {
+    "page": 8,
+    "text": "No hazard identified ",
+    "position": {
+      "x1": 431.3500061035156,
+      "y1": 527.9200439453125,
+      "x2": 516.4309692382812,
+      "y2": 537.8800048828125
+    }
+  },
+  {
+    "page": 8,
+    "text": "Local, Chronic  High hazard  High hazard  High hazard  Low hazard  Local, Acute  Low hazard  Low hazard  Low hazard  Low hazard    DNELs (Consumers)  Hazard via inhalation route:     Distillates, petroleum,  light catalytic cracked ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 552.8800048828125,
+      "x2": 480.0709533691406,
+      "y2": 637.6300048828125
+    }
+  },
+  {
+    "page": 8,
+    "text": "Distillates (petroleum),  hydrodesulfurized  middle ",
+    "position": {
+      "x1": 240.64999389648438,
+      "y1": 615.4300537109375,
+      "x2": 336.14093017578125,
+      "y2": 649.75
+    }
+  },
+  {
+    "page": 8,
+    "text": "Fuels, diesel  Petroleum gas oil fraction, co- processed (catalytic cracking)  with renewable hydrocarbons  of plant and/or animal origin  Systemic, Chronic  hazard unknown (*)  hazard unknown (*)  20 mg/m 3   no hazard identified  Systemic, Acute  2600 mg/m 3   2600 mg/m 3   Local, Chronic  No hazard  identified ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 615.4300537109375,
+      "x2": 555.1627197265625,
+      "y2": 712.2659912109375
+    }
+  },
+  {
+    "page": 8,
+    "text": "Low hazard  Local, Acute  No hazard identified ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 690.18603515625,
+      "x2": 516.4309692382812,
+      "y2": 712.865966796875
+    }
+  },
+  {
+    "page": 9,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 9,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 9,
+    "text": "Hazard via dermal route:    Distillates, petroleum,  light catalytic cracked ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 135.23001098632812,
+      "x2": 217.24124145507812,
+      "y2": 170.0299835205078
+    }
+  },
+  {
+    "page": 9,
+    "text": "Distillates, petroleum,  hydrodesulfurized  middle ",
+    "position": {
+      "x1": 240.64999389648438,
+      "y1": 147.82998657226562,
+      "x2": 332.4713439941406,
+      "y2": 182.27003479003906
+    }
+  },
+  {
+    "page": 9,
+    "text": "Fuels, diesel  Petroleum gas oil fraction, co- processed (catalytic cracking)  with renewable hydrocarbons  of plant and/or animal origin  Systemic, Chronic  Hazard unknown (*)  Hazard unknown (*)  1.3 mg/kg bw/day  2.1 mg/kg bw/day  Systemic, Acute  No hazard  identified ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 147.82998657226562,
+      "x2": 554.1040649414062,
+      "y2": 232.0700225830078
+    }
+  },
+  {
+    "page": 9,
+    "text": "No hazard identified ",
+    "position": {
+      "x1": 430.2699890136719,
+      "y1": 209.87002563476562,
+      "x2": 515.3509521484375,
+      "y2": 219.8300323486328
+    }
+  },
+  {
+    "page": 9,
+    "text": "Local, Chronic  High hazard  Low hazard  Local, Acute  Low hazard  Low hazard    Hazard via oral route:    Distillates, petroleum,  light catalytic cracked ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 234.82998657226562,
+      "x2": 478.9909362792969,
+      "y2": 307.3399963378906
+    }
+  },
+  {
+    "page": 9,
+    "text": "Distillates, petroleum,  hydrodesulfurized  middle ",
+    "position": {
+      "x1": 240.64999389648438,
+      "y1": 285.1399841308594,
+      "x2": 332.4713439941406,
+      "y2": 319.5799865722656
+    }
+  },
+  {
+    "page": 9,
+    "text": "Fuels, diesel  Petroleum gas oil fraction, co- processed (catalytic cracking)  with renewable hydrocarbons  of plant and/or animal origin  Systemic, Chronic  1 mg/kg bw/day  1.3 mg/kg bw/day  1.3 mg/kg bw/day  No hazard identified  Systemic, Acute  Hazard unknown (*)  Hazard unknown (*)  No hazard  identified ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 285.1399841308594,
+      "x2": 554.1040649414062,
+      "y2": 369.3800048828125
+    }
+  },
+  {
+    "page": 9,
+    "text": "No hazard identified ",
+    "position": {
+      "x1": 430.2699890136719,
+      "y1": 347.17999267578125,
+      "x2": 515.3509521484375,
+      "y2": 357.1399841308594
+    }
+  },
+  {
+    "page": 9,
+    "text": "  (*) no further hazard information necessary as no exposure expected    PNEC related information :  ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 372.1399841308594,
+      "x2": 361.6009521484375,
+      "y2": 418.6999816894531
+    }
+  },
+  {
+    "page": 9,
+    "text": "Product comprises mostly of hydrocarbons with a complex, unknown or variable composition. Conventional methods of  deriving PNECs are not appropriate and it is not possible to identify a single representative PNEC for such substances.  ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 420.9800109863281,
+      "x2": 568.9417724609375,
+      "y2": 443.6880187988281
+    }
+  },
+  {
+    "page": 9,
+    "text": "8.2   EXPOSURE CONTROLS    8.2.1 Appropriate engineering controls    ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 448.17279052734375,
+      "x2": 207.98095703125,
+      "y2": 498.03997802734375
+    }
+  },
+  {
+    "page": 9,
+    "text": "Provide adequate ventilation to ensure that occupational exposure limits are not exceeded. Local extraction may be  required. Eye wash and quick-drench shower facilities should be available in the work area. Contaminated clothing and  shoes should be thoroughly washed before reuse. ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 500.20001220703125,
+      "x2": 568.8568115234375,
+      "y2": 534.6400146484375
+    }
+  },
+  {
+    "page": 9,
+    "text": "  8.2.2 Individual protection measures, such as personal protective equipment   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 542.800048828125,
+      "x2": 363.16094970703125,
+      "y2": 577.239990234375
+    }
+  },
+  {
+    "page": 9,
+    "text": "Eye protection:   Goggles or safety glasses with side shields giving complete protection to eyes. (EN  166). Depending on conditions of use, close-fitting eye protection and a face shield  may be necessary.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 579.52001953125,
+      "x2": 569.1434936523438,
+      "y2": 626.1099853515625
+    }
+  },
+  {
+    "page": 9,
+    "text": "Skin protection:  Long sleeve protective clothing. Nitrile, neoprene or PVC apron. Rubber boots.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 628.27001953125,
+      "x2": 541.1510009765625,
+      "y2": 650.469970703125
+    }
+  },
+  {
+    "page": 9,
+    "text": "Hand protection:    Chemical-resistant gloves. (EN 374). Suitable glove material: nitrile, neoprene or PVC  (breakthrough time > 240 minutes).     Breakthrough times for gloves vary depending on, e.g. chemical resistance, material  thickness, frequency and duration of contact. Selection should also consider other  usage requirements, e.g. dexterity, heat resistance, other chemical substances ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 652.75,
+      "x2": 569.3004760742188,
+      "y2": 711.5460205078125
+    }
+  },
+  {
+    "page": 10,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 10,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 10,
+    "text": "handled. Always seek advice from glove suppliers. Contaminated gloves should be  replaced.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 122.99002075195312,
+      "x2": 568.8903198242188,
+      "y2": 157.3100128173828
+    }
+  },
+  {
+    "page": 10,
+    "text": "Respiratory protection:      Where airborne levels below the exposure limits cannot be maintained, wear an air- purifying respirator (EN 140) with a Type A/P2 filter or better suitable for organic  gases and vapours with a boiling point above 65°C. (EN 14387).      Thermal hazards   Wear suitable temperature resistant gloves and protective clothing if the product is  heated.    ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 159.58999633789062,
+      "x2": 569.0023803710938,
+      "y2": 242.75001525878906
+    }
+  },
+  {
+    "page": 10,
+    "text": "8.2.3 Environmental exposure controls:    ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 251.02999877929688,
+      "x2": 224.9009552001953,
+      "y2": 260.989990234375
+    }
+  },
+  {
+    "page": 10,
+    "text": "Avoid release to the environment. Inform environmental manager of all incidents involving this product. Monitoring of the  concentration of substances in the breathing zone of workers or in the general workplace may be required to confirm  compliance with an Occupational Exposure Limit and adequacy of exposure controls. For some substances, biological  monitoring may also be appropriate. Information on suitable methods is available on request.    SECTION 9.   PHYSICAL AND CHEMICAL PROPERTIES   ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 269.3000183105469,
+      "x2": 569.3058471679688,
+      "y2": 355.4599914550781
+    }
+  },
+  {
+    "page": 10,
+    "text": "9.1 INFORMATION ON BASIC PHYSICAL AND CHEMICAL PROPERTIES ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 363.739990234375,
+      "x2": 332.42095947265625,
+      "y2": 373.6999816894531
+    }
+  },
+  {
+    "page": 10,
+    "text": "9.2 OTHER INFORMATION ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 668.8300170898438,
+      "x2": 194.990966796875,
+      "y2": 678.7899780273438
+    }
+  },
+  {
+    "page": 10,
+    "text": "Appearance:  Liquid (Clear, straw-coloured)  Odour:  Characteristic  Odour threshold:  No data available.  pH:    Not applicable.  Melting/freezing point:  No data available  Initial boiling point and boiling range:  165 – 375 °C  Flash point:  Open Cup: >55 °C   Evaporation rate:  No data available.  Flammability (solid; gas):  Not applicable  Upper/lower flammability or explosive limits:  Lower: 0.5% Upper: 6%  Vapour pressure:  0.3 kPa @20 °C  Vapour density:  > 1 (Air = 1)  Relative density:  0.82 to 0.845 @ 15 °C (Water=1)  Solubility(ies):  Immiscible in water.  Miscible in aromatic solvents.  Partition coefficient: n-octanol/water:  No data available  Auto-ignition temperature:    250 – 270 °C  Decomposition temperature:  Not available.  Viscosity:  4.8 mm 2 /s @ 20 °C  2 – 4.5 mm 2 /s @ 40 °C  Explosive properties:  Not explosive. Vapour may form explosive mixture in air.  Oxidising properties:  Not oxidising. ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 381.9800109863281,
+      "x2": 514.7509765625,
+      "y2": 648.3099975585938
+    }
+  },
+  {
+    "page": 10,
+    "text": "Pour Point:  < -24 °C ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 687.0660400390625,
+      "x2": 315.6209411621094,
+      "y2": 697.0260009765625
+    }
+  },
+  {
+    "page": 11,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 11,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 11,
+    "text": "SECTION 10.   STABILITY AND REACTIVITY   ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 121.2428207397461,
+      "x2": 229.58096313476562,
+      "y2": 148.1900177001953
+    }
+  },
+  {
+    "page": 11,
+    "text": "10.1 REACTIVITY ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 156.47000122070312,
+      "x2": 114.47096252441406,
+      "y2": 166.4300079345703
+    }
+  },
+  {
+    "page": 11,
+    "text": "Reacts with oxidising agents.    ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 171.35299682617188,
+      "x2": 183.3888702392578,
+      "y2": 196.7899932861328
+    }
+  },
+  {
+    "page": 11,
+    "text": "10.2 CHEMICAL STABILITY ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 205.06997680664062,
+      "x2": 152.990966796875,
+      "y2": 215.0299835205078
+    }
+  },
+  {
+    "page": 11,
+    "text": "The product is stable under normal use conditions   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 223.18997192382812,
+      "x2": 269.90093994140625,
+      "y2": 245.39002990722656
+    }
+  },
+  {
+    "page": 11,
+    "text": "10.3 POSSIBILITY OF HAZARDOUS REACTIONS: ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 253.69998168945312,
+      "x2": 237.38096618652344,
+      "y2": 263.65997314453125
+    }
+  },
+  {
+    "page": 11,
+    "text": "No hazardous reactions expected during normal conditions. ",
+    "position": {
+      "x1": 63.959999084472656,
+      "y1": 271.9399719238281,
+      "x2": 308.66094970703125,
+      "y2": 281.89996337890625
+    }
+  },
+  {
+    "page": 11,
+    "text": "10.4 CONDITIONS TO AVOID ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 308.29998779296875,
+      "x2": 163.4309539794922,
+      "y2": 318.2599792480469
+    }
+  },
+  {
+    "page": 11,
+    "text": "Keep away from sources of ignition, hot surfaces and direct sunlight.  Prevent accumulation of vapours. Contact with strong  oxidizing agents e.g. chlorates and ammonium nitrate.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 326.5400085449219,
+      "x2": 569.090576171875,
+      "y2": 360.8599853515625
+    }
+  },
+  {
+    "page": 11,
+    "text": "10.5 INCOMPATIBLE MATERIALS: ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 369.1399841308594,
+      "x2": 182.990966796875,
+      "y2": 379.0999755859375
+    }
+  },
+  {
+    "page": 11,
+    "text": "Oxidising agents e.g. chlorates and ammonium nitrate which may be used in agriculture. Strong reducing agents.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 387.260009765625,
+      "x2": 523.1510009765625,
+      "y2": 409.4599914550781
+    }
+  },
+  {
+    "page": 11,
+    "text": "10.6   HAZARDOUS DECOMPOSITION PRODUCTS ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 417.739990234375,
+      "x2": 241.9409637451172,
+      "y2": 427.6999816894531
+    }
+  },
+  {
+    "page": 11,
+    "text": "Combustion may liberate toxic fumes: Carbon monoxide, carbon dioxide, various hydrocarbons, nitrogen oxides, sulphur  oxides.    SECTION 11.   TOXICOLOGICAL INFORMATION    Note:  All information in this section is for Fuels, diesel. Information given is based on product data, knowledge of the  components and the toxicology of similar products.   ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 436.0,
+      "x2": 569.3510131835938,
+      "y2": 534.4000244140625
+    }
+  },
+  {
+    "page": 11,
+    "text": "11.1. INFORMATION ON TOXICOLOGICAL EFFECTS ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 542.6800537109375,
+      "x2": 249.8609619140625,
+      "y2": 552.6400146484375
+    }
+  },
+  {
+    "page": 11,
+    "text": "Acute Oral Toxicity:  Not classified.  Based on the available data the classification criteria are not met.       Acute Dermal Toxicity:  Not classified.  Based on the available data the classification criteria are not met.      Acute Inhalation Toxicity:  Harmful if inhaled      Skin Corrosion/Irritation:  Causes skin irritation.    Serious Eye Damage/Irritation:  Not classified.  Based on the available data the classification criteria are not met.    Skin sensitisation  Not classified.  Based on the available data the classification criteria are not met.   ",
+    "position": {
+      "x1": 78.6240005493164,
+      "y1": 573.0400390625,
+      "x2": 549.6709594726562,
+      "y2": 717.3059692382812
+    }
+  },
+  {
+    "page": 12,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 12,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 12,
+    "text": "Respiratory sensitisation:  Not classified.  Based on the available data the classification criteria are not met.    Carcinogenicity:  May cause cancer    Reproductive Toxicity:  Not classified.  Based on the available data the classification criteria are not met.      Specific target organ toxicity  Not classified.  Based on the available data the classification criteria are not met.  – single exposure:  High concentrations of vapour may cause central nervous system depression  resulting in headaches, dizziness and nausea; continued inhalation may result in  unconsciousness and/or death.    Specific target organ toxicity  May cause damage to organs (Bone Marrow, Hematopoietic System, Immune   - repeated exposure:  System, Kidney, Liver, Lungs, Skin and Blood).       Aspiration hazard:  May be fatal if swallowed and enters airways. Risk of aspiration into lungs resulting  in chemical pneumonia.    ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 122.99002075195312,
+      "x2": 569.2438354492188,
+      "y2": 328.2200012207031
+    }
+  },
+  {
+    "page": 12,
+    "text": "Information on likely routes of exposure   Inhalation  High concentrations may cause central nervous system depression resulting in  headaches, dizziness and nausea; continued inhalation may result in unconsciousness  and/or death.  Skin contact  Causes skin irritation. Prolonged or repeated skin contact may cause dry skin and  irritation and defatting of the skin.  Eye contact  May cause slight eye irritation, redness, transient pain, watering.  Ingestion  May be fatal if swallowed and enters airways. Risk of aspiration into lungs resulting in  chemical pneumonia. ",
+    "position": {
+      "x1": 79.58399963378906,
+      "y1": 330.5,
+      "x2": 575.13623046875,
+      "y2": 438.1600036621094
+    }
+  },
+  {
+    "page": 12,
+    "text": "Symptoms related to the physical, chemical and toxicological characteristics:   Skin irritation signs and symptoms may include a burning sensation, redness, swelling, and/or blisters. Prolonged or  repeated skin contact may cause dry skin and irritation and defatting of the skin.  Eye contact may cause slight irritation, watering, redness and pain.   Breathing of high vapour concentrations may cause central nervous system (CNS) depression resulting in drowsiness,  dizziness, light headedness, headache, disorientation, fatigue, nausea and loss of coordination. The onset of respiratory  symptoms may be delayed for several hours after exposure. Ingestion may cause irritation of the mouth and digestive  tract. If swallowed, aspiration into lungs may result in chemical pneumonia.   May cause cancer. Prolonged or repeated exposure may cause damage to Bone Marrow, Hematopoietic System, Immune  System, Kidney, Liver, Lungs, Skin, Blood.  Other information:   High pressure injection of product into the skin may lead to local necrosis if the product is not surgically removed.    SECTION 12.   ECOLOGICAL INFORMATION   ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 452.55999755859375,
+      "x2": 575.1134643554688,
+      "y2": 636.5499877929688
+    }
+  },
+  {
+    "page": 12,
+    "text": "12.1 TOXICITY ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 644.8300170898438,
+      "x2": 104.27095794677734,
+      "y2": 654.7899780273438
+    }
+  },
+  {
+    "page": 12,
+    "text": "Very toxic to aquatic life with long lasting effects.      ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 662.9500122070312,
+      "x2": 268.220947265625,
+      "y2": 685.1500244140625
+    }
+  },
+  {
+    "page": 13,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 13,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 13,
+    "text": "  Distillates, petroleum,  light catalytic cracked ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 123.47000122070312,
+      "x2": 240.16123962402344,
+      "y2": 145.6699981689453
+    }
+  },
+  {
+    "page": 13,
+    "text": "Distillates  (petroleum),  hydrodesulfurized  middle ",
+    "position": {
+      "x1": 258.1700134277344,
+      "y1": 123.47000122070312,
+      "x2": 334.02532958984375,
+      "y2": 170.0299835205078
+    }
+  },
+  {
+    "page": 13,
+    "text": "Fuels, diesel  Petroleum gas oil fraction, co- processed (catalytic cracking)  with renewable hydrocarbons  of plant and/or animal origin  Short-term toxicity to  fish ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 123.47000122070312,
+      "x2": 566.2027587890625,
+      "y2": 194.99000549316406
+    }
+  },
+  {
+    "page": 13,
+    "text": "LL50 (96 h) >0.3 mg/L  (WAF) ",
+    "position": {
+      "x1": 148.33999633789062,
+      "y1": 172.79000854492188,
+      "x2": 237.9153289794922,
+      "y2": 194.99000549316406
+    }
+  },
+  {
+    "page": 13,
+    "text": "LL50 (96 h) 21 mg/L  LL50 (96 h) 21  mg/L ",
+    "position": {
+      "x1": 258.1700134277344,
+      "y1": 172.79000854492188,
+      "x2": 420.2629699707031,
+      "y2": 194.99000549316406
+    }
+  },
+  {
+    "page": 13,
+    "text": "LL50 (96 h) 65 mg/L ",
+    "position": {
+      "x1": 442.3900146484375,
+      "y1": 172.79000854492188,
+      "x2": 524.5910034179688,
+      "y2": 182.75001525878906
+    }
+  },
+  {
+    "page": 13,
+    "text": "Long-term toxicity to  fish ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 197.74996948242188,
+      "x2": 129.8596954345703,
+      "y2": 219.8300323486328
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOEL 0.029 mg/L  (estimated) ",
+    "position": {
+      "x1": 148.33999633789062,
+      "y1": 197.74996948242188,
+      "x2": 220.64955139160156,
+      "y2": 219.8300323486328
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOEL 0.069 mg/l  (estimated) ",
+    "position": {
+      "x1": 258.1700134277344,
+      "y1": 197.74996948242188,
+      "x2": 328.6767578125,
+      "y2": 219.8300323486328
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOEL (14 d)  0.083 mg/L ",
+    "position": {
+      "x1": 361.2699890136719,
+      "y1": 197.74996948242188,
+      "x2": 411.627685546875,
+      "y2": 219.8300323486328
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOEL 0.21 mg/L (estimated) ",
+    "position": {
+      "x1": 442.3900146484375,
+      "y1": 197.74996948242188,
+      "x2": 559.031005859375,
+      "y2": 207.70997619628906
+    }
+  },
+  {
+    "page": 13,
+    "text": "Short-term toxicity to  aquatic invertebrates ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 222.58999633789062,
+      "x2": 132.4036865234375,
+      "y2": 244.7899932861328
+    }
+  },
+  {
+    "page": 13,
+    "text": "EL50 (48 h) 0.32 mg/L  (WAF) ",
+    "position": {
+      "x1": 148.33999633789062,
+      "y1": 222.58999633789062,
+      "x2": 238.65762329101562,
+      "y2": 244.7899932861328
+    }
+  },
+  {
+    "page": 13,
+    "text": "EL50 (48 h) 7.385  mg/L (estimated) ",
+    "position": {
+      "x1": 258.1700134277344,
+      "y1": 222.58999633789062,
+      "x2": 330.60699462890625,
+      "y2": 244.7899932861328
+    }
+  },
+  {
+    "page": 13,
+    "text": "EL50 (48 h) 68  mg/L ",
+    "position": {
+      "x1": 361.2699890136719,
+      "y1": 222.58999633789062,
+      "x2": 420.99005126953125,
+      "y2": 244.7899932861328
+    }
+  },
+  {
+    "page": 13,
+    "text": "EL50 (48 h) 210 mg/L ",
+    "position": {
+      "x1": 442.3900146484375,
+      "y1": 222.58999633789062,
+      "x2": 530.3509521484375,
+      "y2": 232.5500030517578
+    }
+  },
+  {
+    "page": 13,
+    "text": "Long-term toxicity to  aquatic invertebrates ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 247.55001831054688,
+      "x2": 131.75096130371094,
+      "y2": 269.77996826171875
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOELR (21 d) 0.05 mg/L  (growth and  reproduction) ",
+    "position": {
+      "x1": 148.33999633789062,
+      "y1": 247.55001831054688,
+      "x2": 247.08761596679688,
+      "y2": 281.89996337890625
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOEL 0.163mg/L  (immobility) ",
+    "position": {
+      "x1": 258.1700134277344,
+      "y1": 247.55001831054688,
+      "x2": 328.29827880859375,
+      "y2": 269.77996826171875
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOEL (21 days)  0.2 mg/L  (reproduction) ",
+    "position": {
+      "x1": 361.2699890136719,
+      "y1": 247.55001831054688,
+      "x2": 424.8246765136719,
+      "y2": 281.89996337890625
+    }
+  },
+  {
+    "page": 13,
+    "text": "NOEL 0.51 mg/L (estimated) ",
+    "position": {
+      "x1": 442.3900146484375,
+      "y1": 247.55001831054688,
+      "x2": 559.031005859375,
+      "y2": 257.510009765625
+    }
+  },
+  {
+    "page": 13,
+    "text": "Short-term toxicity to  aquatic algae ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 284.6600036621094,
+      "x2": 132.4036865234375,
+      "y2": 306.8599853515625
+    }
+  },
+  {
+    "page": 13,
+    "text": "EL50 (72h) 8.82 mg/L  (growth rate) ",
+    "position": {
+      "x1": 148.33999633789062,
+      "y1": 284.6600036621094,
+      "x2": 236.35647583007812,
+      "y2": 306.8599853515625
+    }
+  },
+  {
+    "page": 13,
+    "text": "ErL50 (72 h) 22 mg/L  (growth rate) ",
+    "position": {
+      "x1": 258.1700134277344,
+      "y1": 284.6600036621094,
+      "x2": 344.3737487792969,
+      "y2": 306.8599853515625
+    }
+  },
+  {
+    "page": 13,
+    "text": "ErL50 (72 h) 22  mg/L (growth  rate) ",
+    "position": {
+      "x1": 361.2699890136719,
+      "y1": 284.6600036621094,
+      "x2": 424.4561767578125,
+      "y2": 319.0999755859375
+    }
+  },
+  {
+    "page": 13,
+    "text": "EL50 (72 h) 10 mg/L (growth  rate) ",
+    "position": {
+      "x1": 442.3900146484375,
+      "y1": 284.6600036621094,
+      "x2": 559.6968383789062,
+      "y2": 306.8599853515625
+    }
+  },
+  {
+    "page": 13,
+    "text": "12.2 PERSISTENCE/DEGRADABILITY: ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 340.1000061035156,
+      "x2": 194.75096130371094,
+      "y2": 350.05999755859375
+    }
+  },
+  {
+    "page": 13,
+    "text": "Diesel is unlikely to undergo appreciable degradation through hydrolysis or photolysis although one test indicates that  diesel is biodegradable through microbial action but fails the 10-day window. However, the 10-day window is not relevant  for UVCB substances, so diesel is considered biodegradable. Hydrocarbons may be degraded under aerobic conditions into  metabolites that are less toxic and less bioaccumulative.   ",
+    "position": {
+      "x1": 63.959999084472656,
+      "y1": 358.2200012207031,
+      "x2": 569.3304443359375,
+      "y2": 417.0199890136719
+    }
+  },
+  {
+    "page": 13,
+    "text": "12.3 BIOACCUMULATION POTENTIAL: ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 425.32000732421875,
+      "x2": 202.46096801757812,
+      "y2": 435.2799987792969
+    }
+  },
+  {
+    "page": 13,
+    "text": "Substance is a hydrocarbon UVCB, so tests are not usually appropriate. Calculated Kow values for diesel are in the range of  3.9 – 6 indicating a high potential to bioaccumulate. However, in practice, metabolic processes may reduce  bioconcentration.    ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 443.44000244140625,
+      "x2": 569.2359008789062,
+      "y2": 490.1199951171875
+    }
+  },
+  {
+    "page": 13,
+    "text": "12.4 MOBILITY: ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 498.3999938964844,
+      "x2": 109.79096221923828,
+      "y2": 508.3599853515625
+    }
+  },
+  {
+    "page": 13,
+    "text": "Floats on water. Partly evaporates from water or soil surfaces, but a significant proportion will remain after one day. Large  volumes may penetrate soil and could contaminate groundwater.    ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 516.52001953125,
+      "x2": 569.1975708007812,
+      "y2": 550.8399658203125
+    }
+  },
+  {
+    "page": 13,
+    "text": "12.5 PBT & vPvB ASSESSMENT:   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 555.8829345703125,
+      "x2": 177.3888702392578,
+      "y2": 569.5679931640625
+    }
+  },
+  {
+    "page": 13,
+    "text": "The product does not contain substances assessed to be PBT or vPvB.   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 577.3600463867188,
+      "x2": 347.92095947265625,
+      "y2": 599.5599975585938
+    }
+  },
+  {
+    "page": 13,
+    "text": "12.6 OTHER ADVERSE EFFECTS:   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 607.8699951171875,
+      "x2": 176.63096618652344,
+      "y2": 617.8299560546875
+    }
+  },
+  {
+    "page": 13,
+    "text": "  Films formed on water may affect oxygen transfer and damage organisms. ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 625.9900512695312,
+      "x2": 368.3209533691406,
+      "y2": 635.9500122070312
+    }
+  },
+  {
+    "page": 14,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 14,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 14,
+    "text": "SECTION 13.   DISPOSAL CONSIDERATIONS   ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 121.2428207397461,
+      "x2": 234.62095642089844,
+      "y2": 148.1900177001953
+    }
+  },
+  {
+    "page": 14,
+    "text": "13.1 WASTE TREATMENT METHODS: ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 156.47000122070312,
+      "x2": 197.51095581054688,
+      "y2": 166.4300079345703
+    }
+  },
+  {
+    "page": 14,
+    "text": "WASTE DISPOSAL   Waste arising from a spillage or tank cleaning should be disposed of in accordance  with prevailing regulations, preferably to a recognised collector or contractor. The  competence of the collector or contractor to deal satisfactorily with this type of  product should be established beforehand. Do not dispose into the environment, in  drains or in watercourses. Do not dispose of tank water bottoms by allowing them to  drain into the ground. This will result in soil and groundwater contamination.   PRODUCT DISPOSAL  Dispose of waste to licensed waste disposal site in accordance with the requirements  of the local Waste Disposal Authority.      European Waste Code: 13 07 01* fuel oil and diesel    NOTE:  This code has been assigned based upon the most common uses for this  material and may not reflect contaminants resulting from actual use. Waste  generators/producers are responsible for assessing the actual process used when  generating the waste and its contaminants in order to assign the proper waste  disposal code.  PACKAGING DISPOSAL  Waste packaging should be recycled wherever possible. Send to drum recycler or  metal reclaimer. Care should be taken when handling emptied containers that have  not been cleaned out. Drain container thoroughly. After draining, vent in a safe place  away from sparks and fire. Residues may cause an explosion hazard if heated above  the flash point. Do not puncture, cut or weld uncleaned drums. Do not pollute the  soil, water or environment with the waste container. Comply with any local recovery   or waste disposal regulations. Incineration or landfill should only be considered when  recycling is not feasible.   LOCAL LEGISLATION:  Disposal should be in accordance with applicable regional, national, and local laws  and regulations. Local regulations may be more stringent than regional or national  requirements and must be complied with Hazardous Waste (England and Wales)  Regulations 2005    SECTION 14.   TRANSPORT INFORMATION   ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 174.58999633789062,
+      "x2": 569.3509521484375,
+      "y2": 529.3599853515625
+    }
+  },
+  {
+    "page": 14,
+    "text": "14.1 UN   NUMBER ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 537.6400146484375,
+      "x2": 119.6309585571289,
+      "y2": 547.5999755859375
+    }
+  },
+  {
+    "page": 14,
+    "text": "1202   ",
+    "position": {
+      "x1": 63.959999084472656,
+      "y1": 555.8800048828125,
+      "x2": 86.51496124267578,
+      "y2": 577.9599609375
+    }
+  },
+  {
+    "page": 14,
+    "text": "14.2 UN PROPER SHIPPING NAME ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 586.2400512695312,
+      "x2": 185.87095642089844,
+      "y2": 596.2000122070312
+    }
+  },
+  {
+    "page": 14,
+    "text": "GAS OIL    14.3 TRANSPORT HAZARD CLASS(ES) ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 604.510009765625,
+      "x2": 197.39096069335938,
+      "y2": 638.8299560546875
+    }
+  },
+  {
+    "page": 14,
+    "text": "3   ",
+    "position": {
+      "x1": 63.959999084472656,
+      "y1": 641.1100463867188,
+      "x2": 71.27496337890625,
+      "y2": 663.3099975585938
+    }
+  },
+  {
+    "page": 14,
+    "text": "14.4 PACKING GROUP ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 671.5900268554688,
+      "x2": 136.9109649658203,
+      "y2": 681.5499877929688
+    }
+  },
+  {
+    "page": 14,
+    "text": "III   ",
+    "position": {
+      "x1": 63.959999084472656,
+      "y1": 689.7060546875,
+      "x2": 73.79496002197266,
+      "y2": 711.906005859375
+    }
+  },
+  {
+    "page": 15,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 15,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 15,
+    "text": "14.5 ENVIRONMENTAL HAZARDS ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 122.99002075195312,
+      "x2": 182.87095642089844,
+      "y2": 132.9500274658203
+    }
+  },
+  {
+    "page": 15,
+    "text": "ADR/IATA/RID/ADN  YES  IMDG:  Marine Pollutant: YES ",
+    "position": {
+      "x1": 63.84000015258789,
+      "y1": 141.23001098632812,
+      "x2": 267.5009460449219,
+      "y2": 163.3100128173828
+    }
+  },
+  {
+    "page": 15,
+    "text": "14.6 SPECIAL PRECAUTIONS FOR THE USER ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 171.58999633789062,
+      "x2": 222.740966796875,
+      "y2": 181.5500030517578
+    }
+  },
+  {
+    "page": 15,
+    "text": "Read SDS and supplier instructions on correct use of the product.   Transport Category:  3   Tunnel Restriction Code:  (D/E)  Emergency Action Code:  3Y   ",
+    "position": {
+      "x1": 63.84000015258789,
+      "y1": 189.82998657226562,
+      "x2": 330.7409362792969,
+      "y2": 248.63002014160156
+    }
+  },
+  {
+    "page": 15,
+    "text": "14.7 TRANSPORT IN BULK ACCORDING TO ANNEX II OF MARPOL 73/78 AND THE IBC CODE ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 256.9399719238281,
+      "x2": 419.4409484863281,
+      "y2": 266.89996337890625
+    }
+  },
+  {
+    "page": 15,
+    "text": "The product is not intended to be transported in bulk.    SECTION 15.   REGULATORY INFORMATION    15.1   SAFETY, HEALTH AND ENVIRONMENTAL REGULATIONS/LEGISLATION SPECIFIC FOR THE SUBSTANCE OR MIXTURE ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 275.05999755859375,
+      "x2": 531.6709594726562,
+      "y2": 337.4277038574219
+    }
+  },
+  {
+    "page": 15,
+    "text": "This Safety Data Sheet was prepared in accordance with EC Regulation (EC) No. 1907/2006 as amended. The product has  been classified in accordance with Regulation (EC) No. 1272/2008 (CLP).    15.2   CHEMICAL SAFETY ASSESSMENT ",
+    "position": {
+      "x1": 38.880001068115234,
+      "y1": 345.1399841308594,
+      "x2": 569.3509521484375,
+      "y2": 392.2677001953125
+    }
+  },
+  {
+    "page": 15,
+    "text": "A chemical safety assessment has not been carried out.    SECTION 16.   OTHER INFORMATION    HISTORY: ",
+    "position": {
+      "x1": 38.7599983215332,
+      "y1": 399.9800109863281,
+      "x2": 287.66094970703125,
+      "y2": 461.67999267578125
+    }
+  },
+  {
+    "page": 15,
+    "text": "Version 01 ISSUED  06/08/2019, first release    REFERENCES:    Concawe Report 01/97 – Petroleum Products – First Aid Emergency and Medical Advice.   Concawe Report 00/56 – Revised Preparations – Summary Data and Rationale.   CENELEC CLC/TR 50404 Electrostatics – Code of Practice for the Avoidance of Hazards Due to Static Electricity.   Dangerous Goods Regulations – ADR/RID, ADN/ADNR, IMDG, IATA.   European Model Code of Safe Practice in the Storage and Handling of Petroleum Products, Associated Octel Company.   UK – Leaded Gasoline Tank Cleaning and Disposal of Sludge (Booklet OIP/5 (5/99)).   ECHA REACH Dossier      ABBREVIATIONS: ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 463.9599914550781,
+      "x2": 527.470947265625,
+      "y2": 620.469970703125
+    }
+  },
+  {
+    "page": 15,
+    "text": "ACGIH  American Conference of Governmental Industrial Hygienists.  ADN   European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways   ADR   European Agreement concerning the International Carriage of Dangerous Goods by Road.   CAS number   Chemical Abstracts Service Number   CLP   Classification, Labelling and Packaging   EC number   European Inventory of Existing Commercial Chemical Substances or European List of Notified Chemical  Substances number   EC50  Effective Concentration 50% ",
+    "position": {
+      "x1": 48.0,
+      "y1": 622.75,
+      "x2": 537.5509643554688,
+      "y2": 718.14599609375
+    }
+  },
+  {
+    "page": 16,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 16,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 16,
+    "text": "EL50   Effective Loading 50%   IATA   International Air Transport Association   IMDG   International Maritime Dangerous Goods   LC50   Median lethal concentration   LD50   Median lethal does   LL50   Lethal Loading 50%   LOAEL   Lowest observed adverse effect level   NOAEL   No observed adverse effect level   NOEL   No observed effect level   PBT   persistent, bioaccumulative and toxic   REACH   Registration, Evaluation, Authorisation and Restriction of Chemicals   RID   Regulations concerning the International Carriage of Dangerous Goods by Rail   STOT   Specific target organ toxicity   TWA   Time-Weighted Average   UVCB   substance of unknown or variable composition, complex reaction products or biological materials   vPvB   very persistent and very bioaccumulative   WAF  Water Accommodated Fraction    FULL TEXT OF HAZARD STATEMENTS AND HAZARD CODES:  ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 122.99002075195312,
+      "x2": 518.9509887695312,
+      "y2": 352.6999816894531
+    }
+  },
+  {
+    "page": 16,
+    "text": "Flam. Liq. 3   Flammable liquids, Hazard Category 3   Asp. Tox. 1   Aspiration hazard, Hazard Category 1   Skin Irrit. 2   Skin corrosion/irritation, Hazard Category 2   Acute Tox. 4   Acute Toxicity, Hazard Category 4  Carc. 2  Carcinogenicity, Hazard Category 2  STOT RE 2  Specific Target Organ Toxicity – Repeated Exposure, Hazard Category 2  Aquatic Acute 1  Hazardous to the aquatic environment – Acute, Hazard Category 1  Aquatic Chronic 1  Hazardous to the aquatic environment – Chronic, Hazard Category 1  Aquatic Chronic 2  Hazardous to the aquatic environment – Chronic, Hazard Category 2  H226   Flammable liquid and vapour.   H302  Harmful if swallowed  H304   May be fatal if swallowed and enters airways.   H315   Causes skin irritation.   H332  Harmful if inhaled  H336   May cause drowsiness or dizziness.   H351  Suspected of causing cancer  H373  May cause damage to organs through prolonged or repeated exposure  H400  Very toxic to aquatic life  H410  Very toxic to aquatic life with long-lasting effects  H411  Toxic to aquatic life with long-lasting effects    SDS DISTRIBUTION AND TRAINING    This document contains important information to ensure the safe storage, handling and use of this product. The information in  this document should be brought to the attention of the person in your organisation responsible for advising on safety matters.  Workers should be trained to handle this substance safely.    FURTHER INFORMATION:  Users are advised to refer to relevant legislation, approved codes of practice and guidance available from the Health & Safety  Executive (website:  http://www.hse.gov.uk  ) and to the IP Codes of Practice available from the Energy Institute (website:  http://www.energyinst.org.uk  ) ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 354.9800109863281,
+      "x2": 569.3509521484375,
+      "y2": 718.9859619140625
+    }
+  },
+  {
+    "page": 17,
+    "text": "  SAFETY DATA SHEET ",
+    "position": {
+      "x1": 237.52999877929688,
+      "y1": 38.670013427734375,
+      "x2": 375.6769714355469,
+      "y2": 74.19001007080078
+    }
+  },
+  {
+    "page": 17,
+    "text": "Gas Oil  According to Regulation (EC) No. 1907/2006 as amended   ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 77.68997192382812,
+      "x2": 445.7019958496094,
+      "y2": 120.70996856689453
+    }
+  },
+  {
+    "page": 17,
+    "text": "  DISCLAIMER:  The above information is based on our current knowledge of the product. The purpose of this data sheet is to describe the  product in terms of its safety and environmental requirements. It is the user’s responsibility to satisfy themselves as to the  application of this information and/or recommendations for their own use. This safety data sheet contains important  information to ensure the safe storage, handling and use of this product, it does not however constitute an assessment of  workplace risks.  The advice given in this safety data sheet reflects the current knowledge of the hazards and risks associated  with the handling of the product. If the product is mixed with other materials the users shall take these into account in  identifying any additional hazards and risks might arise. ",
+    "position": {
+      "x1": 42.599998474121094,
+      "y1": 122.99002075195312,
+      "x2": 569.099609375,
+      "y2": 232.4300079345703
+    }
+  }
+]

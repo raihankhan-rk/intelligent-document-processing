@@ -20,6 +20,13 @@
                 </div>
             </div>
             <div class="selected-file" id="selected-file"></div>
+            <div class="schema-input">
+                <label for="schema-prompt">Data Schema (Optional)</label>
+                <textarea 
+                    id="schema-prompt" 
+                    placeholder="Example: Extract invoice number, date, total amount, and line items as an array with item name and price"
+                ></textarea>
+            </div>
             <button type="submit" class="upload-button" id="upload-button">
                 Process PDF
             </button>

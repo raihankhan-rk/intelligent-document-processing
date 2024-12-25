@@ -24,15 +24,22 @@ def upload_file():
     if file.filename == '':
         return 'No file selected', 400
     
+    # Get schema prompt if provided
+    schema_prompt = request.form.get('schema')
+    
     if file and file.filename.endswith('.pdf'):
         filename = secure_filename(file.filename)
         filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
         file.save(filepath)
         
-        # Process the PDF
-        extract_text_with_positions(filepath)
+        # Process the PDF with optional schema
+        extract_text_with_positions(filepath, schema_prompt)
         
-        return {'status': 'success', 'filename': filename}
+        return {
+            'status': 'success',
+            'filename': filename,
+            'structured_data': '/output/structured_data.json' if schema_prompt else None
+        }
     
     return 'Invalid file type', 400
 

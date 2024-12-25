@@ -73,6 +73,12 @@ document.addEventListener('DOMContentLoaded', function() {
         const formData = new FormData();
         formData.append('file', fileInput.files[0]);
         
+        // Add schema if provided
+        const schemaPrompt = document.getElementById('schema-prompt').value;
+        if (schemaPrompt.trim()) {
+            formData.append('schema', schemaPrompt);
+        }
+        
         loading.style.display = 'block';
         uploadButton.disabled = true;
         

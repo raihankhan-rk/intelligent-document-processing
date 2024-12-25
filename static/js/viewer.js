@@ -2,21 +2,38 @@
 function highlightPair(id, highlight) {
     const overlay = document.getElementById('overlay-' + id);
     const text = document.getElementById('text-' + id);
-    if (overlay && text) {
+    const schemaText = document.getElementById('schema-text-' + id);
+    
+    if (overlay) {
         if (highlight) {
-            text.classList.add('highlight');
-            overlay.style.background = 'rgba(255, 0, 0, 0.2)';
-            overlay.style.borderColor = 'red';
-            text.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            if (text) {
+                text.classList.add('highlight');
+                overlay.style.background = 'rgba(255, 0, 0, 0.2)';
+                overlay.style.borderColor = 'red';
+                text.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+            if (schemaText) {
+                schemaText.classList.add('highlight');
+                overlay.style.background = 'rgba(0, 128, 255, 0.2)';
+                overlay.style.borderColor = 'rgb(0, 128, 255)';
+                schemaText.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
         } else {
-            text.classList.remove('highlight');
-            overlay.style.background = 'rgba(255, 0, 0, 0.1)';
-            overlay.style.borderColor = 'rgba(255, 0, 0, 0.5)';
+            if (text) {
+                text.classList.remove('highlight');
+                overlay.style.background = 'rgba(255, 0, 0, 0.1)';
+                overlay.style.borderColor = 'rgba(255, 0, 0, 0.5)';
+            }
+            if (schemaText) {
+                schemaText.classList.remove('highlight');
+                overlay.style.background = 'rgba(0, 128, 255, 0.1)';
+                overlay.style.borderColor = 'rgba(0, 128, 255, 0.5)';
+            }
         }
     }
 }
 
-function initializeViewer(textBlocks) {
+function initializeViewer(textBlocks, structuredData) {
     function renderPages(blocks) {
         // Group blocks by page
         const pages = {};
@@ -30,7 +47,47 @@ function initializeViewer(textBlocks) {
         // Generate PDF view HTML
         let pdfHtml = '';
         let textHtml = '';
+        let schemaHtml = '';
         let blockId = 0;
+
+        // Add schema data overlays if available
+        if (structuredData && structuredData.positions) {
+            schemaHtml = '<h2>Extracted Schema Data</h2>';
+            Object.entries(structuredData.positions).forEach(([key, value]) => {
+                const pos = value.bbox;
+                const pageNum = value.page;
+                
+                if (!pages[pageNum]) {
+                    pages[pageNum] = [];
+                }
+                
+                // Add special schema overlay
+                const schemaId = `schema-${blockId}`;
+                pages[pageNum].push({
+                    isSchema: true,
+                    id: schemaId,
+                    position: {
+                        x1: pos.x1,
+                        y1: pos.y1,
+                        x2: pos.x2,
+                        y2: pos.y2
+                    },
+                    text: value.text,
+                    fieldName: key,
+                    value: structuredData.data[key]
+                });
+
+                schemaHtml += `
+                    <div class="schema-item" 
+                         id="schema-text-${schemaId}"
+                         onmouseover="highlightPair('${schemaId}', true)"
+                         onmouseout="highlightPair('${schemaId}', false)">
+                        <strong>${key}:</strong> ${structuredData.data[key]}
+                    </div>
+                `;
+                blockId++;
+            });
+        }
 
         // For each page
         Object.keys(pages).sort((a, b) => a - b).forEach(pageNum => {
@@ -50,29 +107,33 @@ function initializeViewer(textBlocks) {
                 const width = (pos.x2 - pos.x1) * 2;
                 const height = (pos.y2 - pos.y1) * 2;
                 
+                const overlayClass = block.isSchema ? 'schema-overlay' : 'text-overlay';
+                const blockIdStr = block.isSchema ? block.id : blockId;
+                
                 pdfHtml += `
-                    <div id="overlay-${blockId}" 
-                         class='text-overlay' 
+                    <div id="overlay-${blockIdStr}" 
+                         class='${overlayClass}' 
                          data-x="${x1}"
                          data-y="${y1}"
                          data-width="${width}"
                          data-height="${height}"
                          style='left: ${x1}px; top: ${y1}px; width: ${width}px; height: ${height}px;'
-                         onmouseover="highlightPair(${blockId}, true)"
-                         onmouseout="highlightPair(${blockId}, false)">
+                         onmouseover="highlightPair('${blockIdStr}', true)"
+                         onmouseout="highlightPair('${blockIdStr}', false)">
                     </div>
                 `;
 
-                textHtml += `
-                    <div id="text-${blockId}" 
-                         class='text-block'
-                         onmouseover="highlightPair(${blockId}, true)"
-                         onmouseout="highlightPair(${blockId}, false)">
-                        ${block.text}
-                    </div>
-                `;
-
-                blockId++;
+                if (!block.isSchema) {
+                    textHtml += `
+                        <div id="text-${blockId}" 
+                             class='text-block'
+                             onmouseover="highlightPair(${blockId}, true)"
+                             onmouseout="highlightPair(${blockId}, false)">
+                            ${block.text}
+                        </div>
+                    `;
+                    blockId++;
+                }
             });
 
             pdfHtml += `</div>`;
@@ -81,6 +142,7 @@ function initializeViewer(textBlocks) {
         // Insert the generated HTML
         document.getElementById('pdf-view').innerHTML = pdfHtml;
         document.getElementById('text-view').innerHTML = textHtml;
+        document.getElementById('schema-view').innerHTML = schemaHtml;
     }
 
     function adjustOverlays() {
@@ -89,7 +151,8 @@ function initializeViewer(textBlocks) {
             const image = container.querySelector('.pdf-page');
             if (!image.complete) return; // Skip if image not loaded
             
-            const overlays = container.querySelectorAll('.text-overlay');
+            // Select both text and schema overlays
+            const overlays = container.querySelectorAll('.text-overlay, .schema-overlay');
             const scale = image.clientWidth / image.naturalWidth;
             
             overlays.forEach(overlay => {
